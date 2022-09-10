@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fictiontribe/asset-cart.git"
+    "url": "git+https://github.com/fictiontribe/assetcart.git"
   },
   "author": "Fiction Tribe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fictiontribe/asset-cart/issues"
+    "url": "https://github.com/fictiontribe/assetcart/issues"
   },
-  "homepage": "https://github.com/fictiontribe/asset-cart#readme",
+  "homepage": "https://github.com/fictiontribe/assetcart#readme",
   "dependencies": {
     "esbuild": "^0.15.7",
     "gsap": "^3.11.1"
