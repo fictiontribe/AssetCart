@@ -1,0 +1,36 @@
+{
+  "name": "asset-cart",
+  "version": "1.0.1",
+  "description": "Asset cart plugin to create shopping card for all downloadable assets on the landing page",
+  "main": "dist/asset-cart.esm.min.js",
+  "module": "dist/asset-cart.umd.min.js",
+  "browser": "dist/asset-cart.esm.min.js",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fictiontribe/asset-cart.git"
+  },
+  "author": "Fiction Tribe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fictiontribe/asset-cart/issues"
+  },
+  "homepage": "https://github.com/fictiontribe/asset-cart#readme",
+  "dependencies": {
+    "esbuild": "^0.15.7",
+    "gsap": "^3.11.1"
+  },
+  "devDependencies": {
+    "gsap": "^3.11.1",
+    "rollup": "^2.79.0",
+    "rollup-plugin-scss": "^3.0.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "sass": "^1.54.9"
+  },
+  "files": [
+    "dist"
+  ]
+}
