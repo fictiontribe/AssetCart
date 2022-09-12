@@ -1,6 +1,6 @@
 {
   "name": "asset-cart",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Asset cart plugin to create shopping card for all downloadable assets on the landing page",
   "main": "dist/asset-cart.esm.min.js",
   "module": "dist/asset-cart.umd.min.js",
