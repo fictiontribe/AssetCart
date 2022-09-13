@@ -1,4 +1,4 @@
-![AssetCart.js logo](https://github.com/fictiontribe/AssetCart/blob/master/graphic.jpg?raw=true)
+![AssetCart.js logo](https://github.com/fictiontribe/AssetCart/blob/master/asset-cart.png?raw=true)
 ============
 ![npm](https://img.shields.io/npm/v/asset-cart?color=green&style=flat-square) [![GitHub Size](https://img.shields.io/github/size/fictiontribe/AssetCart/dist/asset-cart.min.js?color=%23ff5757&style=flat-square)](https://github.com/fictiontribe/AssetCart/dist/asset-cart.min.js) ![GitHub issues](https://img.shields.io/github/issues/fictiontribe/assetcart?style=flat-square) [![GitHub stars](https://img.shields.io/github/stars/fictiontribe/assetcart?style=flat-square)](https://github.com/fictiontribe/assetcart) ![FTBadge](https://img.shields.io/badge/Fiction%20Tribe-Let%20Humans%20Reign-%2381B63A)
 
@@ -105,7 +105,7 @@ To show an extra asset counter (think e-commerce cart) somewhere on the page, ne
 ---
 
 ## Developed by
-<img alt="FictionTribe Logo" src="https://mishapetrov.github.io/Contrast.js/img/ft-logo.png" width="100">  
+<img alt="FictionTribe Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5kXNtu7pUNuhSa0AV9z12P0VdWb3hrOYVaQ&usqp=CAU" width="100">  
 Created at <a style="color:#52337c;" href="https://fictiontribe.com">Fiction Tribe ®</a> in Portland, OR
 
 ---
