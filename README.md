@@ -2,7 +2,7 @@
 ============
 ![npm](https://img.shields.io/npm/v/asset-cart?color=green&style=flat-square) [![GitHub Size](https://img.shields.io/github/size/fictiontribe/AssetCart/dist/asset-cart.min.js?color=%23ff5757&style=flat-square)](https://github.com/fictiontribe/AssetCart/dist/asset-cart.min.js) ![GitHub issues](https://img.shields.io/github/issues/fictiontribe/assetcart?style=flat-square) [![GitHub stars](https://img.shields.io/github/stars/fictiontribe/assetcart?style=flat-square)](https://github.com/fictiontribe/assetcart) ![FTBadge](https://img.shields.io/badge/Fiction%20Tribe-Let%20Humans%20Reign-%2381B63A)
 
-Widget that collects all linked assets with a class and adds a cool animation effect on scroll to drop them into an asset cart for the user to view and download. This imitates a e-commerce cart functionality for better engagement. I bet you haven't seen this before ;)
+For landing pages that offer multiple content assets as downloadables, we developed this Widget that collects all linked assets with a class and adds an animation effect. As a user scrolls through the page content, this drops linked content into an asset cart for the user to view and download their collection of deeper content while keeping focus on the page. This imitates e-commerce cart functionality to improve on-page engagement and form fill conversion metrics with bundle downloads.
 
 ![GIF demo](https://github.com/fictiontribe/AssetCart/blob/master/assetcartjs.gif?raw=true)
 
@@ -29,7 +29,7 @@ To start working with AssetCart.js right away, make sure to add GSAP, ScrollTrig
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/Flip.min.js"></script> 
 ```
-Then, make sure you add the AssetCart.js CSS (inside the <head> of your page):
+Then, make sure you link the AssetCart.js CSS:
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/asset-cart/dist/asset-cart.min.css"/>
 ```
